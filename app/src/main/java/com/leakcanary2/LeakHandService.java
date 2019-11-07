@@ -1,7 +1,6 @@
 package com.leakcanary2;
 
 import android.util.Log;
-import android.widget.Toast;
 
 import org.jetbrains.annotations.NotNull;
 
