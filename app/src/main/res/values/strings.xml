@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LeakCanary2</string>
+    <string name="leak_canary_display_activity_label">我去</string>
+</resources>
