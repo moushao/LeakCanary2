@@ -20,6 +20,7 @@ public class DebugApplication extends Application {
                 false,
                 100,
                 false, true);
+        LeakCanary.INSTANCE.showLeakDisplayActivityLauncherIcon(true);
         LeakCanary.INSTANCE.setConfig(config);
     }
 }
